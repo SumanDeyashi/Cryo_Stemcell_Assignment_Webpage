@@ -10,4 +10,3 @@ Technology Used: HTML/HTML5, CSS/CSS3.
 Duration: August, 2018.
 
 URL: https://sumandeyashi.github.io/Cryo_Stemcell_Landing_Page/
-ss
